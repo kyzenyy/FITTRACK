@@ -1,0 +1,10 @@
+{
+  "name": "FitTrack - Gym Progress & Routine Tracker",
+  "short_name": "FitTrack",
+  "description": "Track daily workout routines, progressive overload, RPE, barbell plates, and personal records.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "orientation": "portrait"
+}
